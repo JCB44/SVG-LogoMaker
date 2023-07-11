@@ -19,6 +19,8 @@ youll need to run: "npm i" to install the dependencies. &nbsp;
 ## Usage
 
 use the command: "node index.js to start the program and fill in the promts! &nbsp;
+![Screenshot_10](https://github.com/JCB44/SVG-LogoMaker/assets/123124957/9fd7bf45-0adc-4295-ab10-f1ed4b1134fa)
+
 <br>
 
 ## Credit
